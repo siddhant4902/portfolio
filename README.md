@@ -9,19 +9,19 @@ I am a final year BTech Data Science student with a passion for applying my know
   - BTech Data Science: CGPA: 3.5 / 4
 
 - **St. Wilfred’s School**
-  - *Class 12: CBSE-JEE Integrated*
-  - 82%, April 2020
+  - *April 2018 - March 2020*
+  - Class 12: CBSE-JEE Integrated: Grade: 82%
 
 - **Ryan International School**
-  - *Class 10: ICSE*
-  - 92%, April 2018
+  - *April 2005 - March 2018*
+  - Class 10: ICSE: Grade 92%
 
 ## Skills
 
 - **Programming:** Python, SQL, Git, DAX, M Query
 - **Data Science:** Machine Learning, Deep Learning, NLP, Big Data, Time Series, Quantitative Finance
 - **Data Engineering & Cloud:** NoSQL, RDBMS, Hadoop, MLflow, AWS, Azure, GCP
-- **Visualization & Automation:** Power BI, Tableau, Power Automate
+- **Visualization & Automation:** Power BI, Tableau, Alteryx, Power Automate
 
 ## Professional Experience
 
