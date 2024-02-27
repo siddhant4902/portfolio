@@ -3,17 +3,17 @@
 
 ## Education
 
-- **Mukesh Patel School of Technology Management and Engineering, NMIMS**
-  - *August 2020 - Current*
-  - BTech Data Science: CGPA: 3.5 / 4
+### Mukesh Patel School of Technology Management and Engineering, NMIMS
+#### *August 2020 - Current*
+BTech Data Science: CGPA: 3.5 / 4
 
-- **St. Wilfred’s School**
-  - *April 2018 - March 2020*
-  - Class 12: CBSE-JEE Integrated: Grade: 82%
+### St. Wilfred’s School
+#### *April 2018 - March 2020*
+Class 12: CBSE-JEE Integrated: Grade: 82%
 
-- **Ryan International School**
-  - *April 2005 - March 2018*
-  - Class 10: ICSE: Grade 92%
+### Ryan International School
+#### *April 2005 - March 2018*
+Class 10: ICSE: Grade 92%
 
 ## Skills
 
@@ -38,12 +38,13 @@
 
 ## Certifications & Extra-Curriculars
 
-- **CFA Level 1 – CFA Institute**                                                                         (Ongoing)
-- **PL-900: Microsoft Power Platform Fundamentals - Microsoft**                                           (Ongoing)
-- **Equity Markets & Investment Banking Analyst - Finlatics**                                           (February 2023)
-- **Python and Statistics for Finance - Coursera x Hong Kong University**                                  (May 2023)
-- **Trading Strategies in Emerging Markets - Coursera x ISB**                                              (June 2023)
-- **ML and Reinforcement Learning in Finance - Coursera x NYU**                                           (August 2023)
+- **CFA Level 1 – CFA Institute**                                                                   
+- **PL-900: Microsoft Power Platform Fundamentals - Microsoft**
+- **ESG Investing** - Coursera x IB                            
+- **Equity Markets & Investment Banking Analyst - Finlatics**                                         
+- **Python and Statistics for Finance - Coursera x HKU**                                 
+- **Trading Strategies in Emerging Markets - Coursera x ISB**                                 
+- **ML and Reinforcement Learning in Finance - Coursera x NYU**                                          
 - Marketing and Partners in Service Director – Rotaract Club of Bombay Airport
 - Trinity College of London Grade 4 Pianist
 
