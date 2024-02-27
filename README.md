@@ -76,9 +76,9 @@ Class 10: ICSE: Grade 92%
 
 ### INDUSTRY JOBS RECOMMENDATION SYSTEM
 #### *December 2022*
-•	Extracted and structured job hiring data from different sources. 
-•	Implemented Collaborative and Content-Based Filtering to personalize job recommendations for users based on their individual profiles and job descriptions.
-•	Conducted a comparitive analysis to evaluate performance with LinkedIn, using the profiles of college students.
+-	Extracted and structured job hiring data from different sources. 
+-	Implemented Collaborative and Content-Based Filtering to personalize job recommendations for users based on their individual profiles and job descriptions.
+-	Conducted a comparitive analysis to evaluate performance with LinkedIn, using the profiles of college students.
 
 ## Research Papers (Ongoing)
 
