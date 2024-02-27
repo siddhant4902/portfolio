@@ -74,9 +74,9 @@ Class 10: ICSE: Grade 92%
 - Incorporated Intersection over Union for precise bag localization and graph-based tracking to monitor movement patterns.
 - Triggered alerts for bags exhibiting low IoU, or ones that remain stationary for over five minutes unattended.
 
-### INDUSTRY JOBS RECOMMENDATION SYSTEM
+### Data Science Jobs Recommendation System
 #### *December 2022*
--	Extracted and structured job hiring data from different sources. 
+-	Extracted and structured job hiring data using web scraping, from various credible sources. 
 -	Implemented Collaborative and Content-Based Filtering to personalize job recommendations for users based on their individual profiles and job descriptions.
 -	Conducted a comparitive analysis to evaluate performance with LinkedIn, using the profiles of college students.
 
