@@ -1,6 +1,5 @@
 # About Me
 
-I am a final year BTech Data Science student with a passion for applying my knowledge to solve real-world challenges, with a strong foundation in Machine Learning, Deep Learning, NLP, Big Data, and Finance. I am also a student at the CFA Institute, studying to get my Level-1 certification. I am eager to leverage my skills and knowledge in a dynamic environment where I can contribute to meaningful company projects and learn from experienced mentors.
 
 ## Education
 
