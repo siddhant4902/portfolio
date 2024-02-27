@@ -16,9 +16,9 @@ description:
   </p>
   
   <p align="justify">
-  I am a <b>data scientist</b>, who thrives on creating informed decision making for real world problems.
+  I am a <b>data scientist</b> who thrives on creating informed decision making for real world problems.
   <br>
-  My Bachelor's degree in Data Science has equipped me with a strong foundation in Machine Learning, Deep Learning, NLP, Big Data, and Finance.
+  My <b>Bachelor's degree in Data Science</b> has equipped me with a strong foundation in ML, DL, NLP and Big Data.
   
   I am also a student at the CFA Institute, studying to get my Level-1 certification, committing to apply data science principles in the financial industry.
   <br>
@@ -26,6 +26,4 @@ description:
   <br><br>
   </p>
 
-
-# show_downloads: true
 theme: jekyll-theme-minimal
